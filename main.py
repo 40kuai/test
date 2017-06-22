@@ -6,3 +6,5 @@ def run():
 def windows():
     print("in linux")
     print("and windows")
+def linux():
+    print("in linux")
