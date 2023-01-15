@@ -1,2 +1,0 @@
-- name: Docker Buildx Bake
-  uses: docker/bake-action@v2.3.0
